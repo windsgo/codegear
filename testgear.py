@@ -2,7 +2,7 @@ from invfun import inv, inv_1
 from onepair import BasicGears, Gear, PlanetaryGear, HiddenPrints, PrintToTxt
 import math
 import numpy as np
-
+# test revise
 
 # z1:太阳轮 z2:内齿轮
 def GetZ3(z1, z2, alpha_work_cb=20, alpha_work_ac_range=[23, 27]):
